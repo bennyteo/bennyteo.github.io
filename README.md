@@ -1,17 +1,24 @@
 ### Professional Summary
 
 ### Skills
-Python   Git   MongoDB   Machine Learning
+Python   Git   MongoDB   Machine Learning Statiscal Analysis
 ### Experience
-**Data Wrangling Project**
+**Data Cleaning Project**
 - 
 - 
-**Data Analysis Project**
+**Data Visualization Project**
 - 
 - 
 **Machine Learning Project**
 - 
 - 
+**End to End Project**
+- 
+- 
+**Explanatory Project**
+- 
+- 
+
 ### Work history
 **Title**     Period
 _CompanyName_
